@@ -57,3 +57,8 @@ async function main() {
 }
 
 main();
+
+
+
+    "check-and-fix": "node scripts/check-and-fix.js"
+
